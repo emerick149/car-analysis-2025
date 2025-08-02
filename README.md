@@ -33,12 +33,15 @@ The dataset includes:
 ```
 ├── data/
 │   └── sample-data-10mins.xlsx
-├── enhanced_sales_data.csv
-├── sales_analysis.ipynb
-├── visuals/
-│   └── (plots generated in Python)
+    └──enhanced_sales_data.csv
+    └──cleaned_sales_data.csv
+├── python notebook/
+    └──sales_analysis.ipynb
+├── visuals or screenshoots/
+│   └── (screenshoots)
 ├── PowerBI/
 │   └── SalesDashboard.pbix
+    └── visualization.pbix
 └── README.md
 ```
 
